@@ -1,6 +1,6 @@
 # ADNI-data-preprocess
-This repository contains the code from my research project on detecting Alzheimer’s disease using MRI scans from the ADNI (Alzheimer’s Disease Neuroimaging Initiative) dataset.
+This repository contains the code developed during my research project on Alzheimer’s disease detection using neuroimaging. The study utilized the ADNI dataset which is the most abundant dataset available for Alzheimer’s research.
 
-The project explored the use of image-based machine learning techniques for early detection. The code includes preprocessing steps such as converting .nii files to 2D slices and basic feature preparation.
+The project explored the utility of image-based machine learning techniques to detect Alzheimer's disease from MRI scans.
 
-⚠️ This is research code — it was written for experimentation, not production.
+⚠️ Note: This repository is research-oriented and not structured. The code is quite messy, as it was written during the study phase and not for software development.
